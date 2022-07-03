@@ -1,2 +1,2 @@
-# fibidunni.data
+# fibidunni
 My Data Analysis Journey
